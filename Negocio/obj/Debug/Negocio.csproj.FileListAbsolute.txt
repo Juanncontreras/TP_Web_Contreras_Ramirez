@@ -1,0 +1,11 @@
+C:\Users\Juann\Desktop\TP_Web_Contreras_Ramirez\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\Juann\Desktop\TP_Web_Contreras_Ramirez\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Juann\Desktop\TP_Web_Contreras_Ramirez\Negocio\bin\Debug\Negocio.dll
+C:\Users\Juann\Desktop\TP_Web_Contreras_Ramirez\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Juann\Desktop\TP_Web_Contreras_Ramirez\Negocio\bin\Debug\AccesoDatos.dll
+C:\Users\Juann\Desktop\TP_Web_Contreras_Ramirez\Negocio\bin\Debug\Dominio.dll
+C:\Users\Juann\Desktop\TP_Web_Contreras_Ramirez\Negocio\bin\Debug\AccesoDatos.pdb
+C:\Users\Juann\Desktop\TP_Web_Contreras_Ramirez\Negocio\bin\Debug\Dominio.pdb
+C:\Users\Juann\Desktop\TP_Web_Contreras_Ramirez\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Juann\Desktop\TP_Web_Contreras_Ramirez\Negocio\obj\Debug\Negocio.dll
+C:\Users\Juann\Desktop\TP_Web_Contreras_Ramirez\Negocio\obj\Debug\Negocio.pdb
